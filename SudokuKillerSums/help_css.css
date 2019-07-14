@@ -1,0 +1,27 @@
+
+ul:not(.browser-default) {
+	padding-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+ul:not(.browser-default) li {
+    list-style-type: disc;
+}
+
+p {
+    padding-left: 10px;
+}
+
+h3, h4, h5 {
+    color: #b71c1c;
+    padding-left: 10px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+body {
+    font-family: roboto, arial, tahoma;
+}
